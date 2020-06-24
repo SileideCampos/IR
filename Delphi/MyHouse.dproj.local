@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile Android64="0054462160" Android=""/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>2020/04/17 23:18:12.000.919,C:\Projetos\MyHouse\Principal.pas=C:\Projetos\MyHouse\TabbedFormwithNavigation.pas</Transaction>
+    <Transaction>2020/04/17 23:18:12.000.967,C:\Projetos\MyHouse\Principal.fmx=C:\Projetos\MyHouse\TabbedFormwithNavigation.fmx</Transaction>
+    <Transaction>2020/04/17 23:18:25.000.564,C:\Projetos\MyHouse\MyHouse.dproj=C:\Projetos\MyHouse\TabbedwithNavigation.dproj</Transaction>
+  </Transactions>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
